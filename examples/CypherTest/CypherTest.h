@@ -6,7 +6,7 @@
 
 using namespace Upp;
 
-#define LAYOUTFILE <CypherTest/CypherTest.lay>
+#define LAYOUTFILE <examples/CypherTest/CypherTest.lay>
 #include <CtrlCore/lay.h>
 
 class CypherTest : public WithCypherTestLayout<TopWindow>
