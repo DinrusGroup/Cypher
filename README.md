@@ -1,2 +1,2 @@
 # Cypher
-Multipurpose encryption/decryption package
+Пакет многоцелевого кодирования/раскодирования.
